@@ -1,12 +1,13 @@
 # 01
-Register to GitHub, fork this repo, and comment on [#1](https://github.com/dudung/nt6094-01-2022-1/issues/1)
+Register to GitHub, fork this repo, and comment on [#1](https://github.com/dudung/fi4002-01-2022-1/issues/1)
 
 
 <center>user</center> | nim | fork | comment
 :- | :-: | :-: | :-:
-user |  | :heavy_check_mark: | :x:
+[veedasch](https://github.com/veedasch/fi4002-01-2022-1) | 10222999  | :heavy_check_mark: | :heavy_check_mark:
+&nbsp; | &nbsp;  | :x: | :x:
 
 
 ## information
-+ [comment](https://github.com/dudung/nt6094-01-2022-1/issues/1)
-+ [list of fork](https://github.com/dudung/nt6094-01-2022-1/network/members)
++ [comment](https://github.com/dudung/fi4002-01-2022-1/issues/1)
++ [list of fork](https://github.com/dudung/fi4002-01-2022-1/network/members)
