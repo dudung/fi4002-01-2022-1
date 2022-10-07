@@ -12,6 +12,7 @@ week 7
 
 ## materi
 + [Jadwal sementara](text/schedule-temp.md)
++ [Model ke diagram alir dan pseudocode](text/model-flowchart-pseudocode.md)
 
 
 ## vicon
