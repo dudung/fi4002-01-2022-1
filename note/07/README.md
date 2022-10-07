@@ -11,7 +11,7 @@ week 7
 
 
 ## materi
-+ ..
++ [Jadwal sementara](text/schedule-temp.md)
 
 
 ## vicon
