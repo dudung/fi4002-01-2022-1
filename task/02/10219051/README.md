@@ -15,19 +15,18 @@ model yang dicoba:
 + spring-mass system
 
 ## materi paling menarik
-+ Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
++ menghitung suhu dengan persamaan diferensial parsial, cukup menarik karena menggunakan kombinasi matriks juga untuk menyelesaikan
 
 
 ## materi paling membosankan
-+ Tuliskan materi yang telah diberikan yang paling membosankan dan jelaskan alasannya.
-
++ Tidak ada materi yang membosankan bagi saya
 
 ## materi yang sudah dipahami
-+ Tuliskan materi-materi yang telah dipahami.
++ metode euler, runge-kutta, minte carlo
 
 
 ## materi yang belum dipahami
-+ Tuliskan materi-materi yang masih belum dipahami dan bagian mana yang belum serta ingin dipahami.
++ Fourier transform
 
 
 ## contoh program
