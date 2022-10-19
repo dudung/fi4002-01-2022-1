@@ -34,11 +34,28 @@ kasus-kasus yang pernah dicontohkan adalah pegas dengan 2 benda, osilasi harmoni
 
 ```python
 # contoh program python
+#rekursif, aplikasi rekursif adalah fraktal
+#5!=1*2*3*4*5=120
+def rekursif_factorial(n):
+   if n==1:
+     return n
+   else:
+     return n*rekursif_factorial(n-1)
+angka=2
+
+#cek apakah angka negatif
+if angka<0:
+  print("Maaf angka tidak boleh negatif")
+elif angka==0:
+  print("Factorial 0 adalah 1")
+else:
+  print("Factorial dari", angka,"adalah",
 ```
 
 Hasilnya adalah
 
 ```
+Factorial dari 2 adalah 2
 ```
 
 
