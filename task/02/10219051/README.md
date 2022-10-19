@@ -1,10 +1,18 @@
-# 1021XABC
-NamaLengkap
+# 10219051
+Clarissa Ivana
 
 
 ## materi sebelumnya
-+ Tuliskan materi-materi sebelumnya yang telah diberikan dalam kuliah ini.
++ Metode Euler dan Runge-Kutta orde 4 untuk menyelesaikan persamaan diferensial secara numerik
++ Metode Monte-Carlo dalam menghitung integral secara numerik
++ Menghitung persamaan diferensial parsial (Heat Equation) secara numerik
++ Fourier transform
 
+model yang dicoba:
++ predator-prey
++ persamaan Lorenz
++ osilasi teredam
++ spring-mass system
 
 ## materi paling menarik
 + Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
@@ -14,7 +22,7 @@ NamaLengkap
 + Tuliskan materi yang telah diberikan yang paling membosankan dan jelaskan alasannya.
 
 
-## materi yang sudah dipami
+## materi yang sudah dipahami
 + Tuliskan materi-materi yang telah dipahami.
 
 
