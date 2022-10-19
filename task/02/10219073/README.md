@@ -92,7 +92,7 @@ Hasilnya adalah
 
 
 ```
-Terdapat gambar attached
+https://user-images.githubusercontent.com/91540073/196602239-095732c7-7339-404b-b73f-514703a5ece2.png
 ```
 
 
