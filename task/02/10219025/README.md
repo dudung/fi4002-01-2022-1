@@ -4,30 +4,30 @@ Asla Roudhatu Rohmah
 
 ## materi sebelumnya
 + Tuliskan materi-materi sebelumnya yang telah diberikan dalam kuliah ini.
-+ Basis python (membuat grafik, penjumlahan, matriks, pembagian, string, factorial, looping)
-+ Persamaan Lorentz, Predator-Prey, dan grafiknya
-+ Metode Runge Kutta Orde-4 (Persamaan Differensial)
-+ Metode Euler (Persamaan Differensial)
-+ Monte Carlo 
-+ Persamaan Differensial Difusi 
-+ Fourier Transform
+- Basis python (membuat grafik, penjumlahan, matriks, pembagian, string, factorial, looping)
+- Persamaan Lorentz, Predator-Prey, dan grafiknya
+- Metode Runge Kutta Orde-4 (Persamaan Differensial)
+- Metode Euler (Persamaan Differensial)
+- Monte Carlo 
+- Persamaan Differensial Difusi 
+- Fourier Transform
 kasus-kasus yang pernah dicontohkan adalah pegas dengan 2 benda, osilasi harmonik, temperatur.
 
 ## materi paling menarik
 + Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
-+ Monte Carlo, karena grafik keluarannya menarik, dan kodingnya tidak terlalu rumit namun manfaatnya sangat besar. Monte Carlo juga dapat menyelesaikan permasalahan yang relatif sulit kemudian dapat diaplikasikan dalam kehidupan sehari-hari. 
+- Monte Carlo, karena grafik keluarannya menarik, dan kodingnya tidak terlalu rumit namun manfaatnya sangat besar. Monte Carlo juga dapat menyelesaikan permasalahan yang relatif sulit kemudian dapat diaplikasikan dalam kehidupan sehari-hari. 
 
 ## materi paling membosankan
 + Tuliskan materi yang telah diberikan yang paling membosankan dan jelaskan alasannya.
-Fourier Transform, karena kodingnya lumayan banyak dan memerlukan konsentrasi yang sangat besar saat mengerjakannya. 
+- Fourier Transform, karena kodingnya lumayan banyak dan memerlukan konsentrasi yang sangat besar saat mengerjakannya. 
 
 ## materi yang sudah dipami
 + Tuliskan materi-materi yang telah dipahami.
-+ Basis python, Pred-Prey, Metode Euler, monte carlo
+- Basis python, Pred-Prey, Metode Euler, monte carlo
 
 ## materi yang belum dipahami
 + Tuliskan materi-materi yang masih belum dipahami dan bagian mana yang belum serta ingin dipahami.
-+ Metode Runge Kutta Orde 4, serta mengaplikasikan nya dalam kehidupan sehari-hari. 
+- Fourier Transform, serta mengaplikasikan nya dalam kehidupan sehari-hari. 
 
 ## contoh program
 + Buat suatu contoh program dalam Python dan sertakan di sini dengan hasil keluarnnya.
@@ -44,7 +44,7 @@ Hasilnya adalah
 
 ## cara perkuliahan
 + Tuliskan pendapat Anda mengenai cara perkuliahan selama ini dan cantumkan usulan untuk perkuliahan setelah UTS.
-+ Cara perkuliahan selama ini sudah cukup baik, dosen menjelaskan dengan jelas. Usulan untuk kedepannya, mungkin catatan2 koding selama perkuliahan semoga bisa disebarkan ke mahasiswa juga, sehingga mahasiswa bisa mencoba di rumah.
+- Cara perkuliahan selama ini sudah cukup baik, dosen menjelaskan dengan jelas. Usulan untuk kedepannya, mungkin catatan2 koding selama perkuliahan semoga bisa disebarkan ke mahasiswa juga, sehingga mahasiswa bisa mencoba di rumah.
 
 ## topik sistem fisis
 + Tuliskan sistem fisis yang menarik bagi Anda untuk dikaji lebih dalam dan jelaskan alasannya mengapa.
@@ -52,4 +52,4 @@ Hasilnya adalah
 
 ## simulasi dan visualisasi
 + Apakah Anda tertarik dengan simulasi dan visualisasi? Jelaskan topik yang ingin Anda simulasikan / visualisasikan serta cantumkan alasannya dan perkiraan pustaka Python yang perlu digunakan.
-+ saya cukup tertarik pada fraktal (pada bagian rekursif) contohnya snowflakes, karena terlihat indah dan juga menarik untuk dipelajari pada bidang-bidang lain seperti organ-organ dalam tubuh. 
+- saya cukup tertarik pada fraktal (pada bagian rekursif) contohnya snowflakes, karena terlihat indah dan juga menarik untuk dipelajari pada bidang-bidang lain seperti organ-organ dalam tubuh. 
