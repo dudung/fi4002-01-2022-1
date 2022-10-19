@@ -72,8 +72,7 @@ plt.draw()
 Hasilnya adalah
 
 ```
-
-![SPSF_1](https://github.com/Meykeputri/fi4002-01-2022-1/blob/main/task/02/10219085/SPSF_1.png)
+![SPSF_1](https://user-images.githubusercontent.com/97948879/196739671-1f18af82-342c-4644-a4df-482d740cf053.png)
 
 ```
 
