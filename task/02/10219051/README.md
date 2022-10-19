@@ -111,7 +111,7 @@ plt.tight_layout()
 
 Hasilnya adalah
 
-
+![download (1)](https://user-images.githubusercontent.com/79934330/196589740-42cc86d8-45ec-4338-917c-7a72180a0654.png)
 
 ```
 ```
