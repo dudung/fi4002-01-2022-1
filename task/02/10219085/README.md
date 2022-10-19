@@ -73,7 +73,7 @@ Hasilnya adalah
 
 ```
 
-![SPSF_1](https://user-images.githubusercontent.com/97948879/196716960-aed9c39f-12d2-4b58-a11d-7694e59cfc21.png)
+![SPSF_1](https://github.com/Meykeputri/fi4002-01-2022-1/blob/main/task/02/10219085/SPSF_1.png)
 
 ```
 
