@@ -11,7 +11,7 @@ week 9
 
 
 ## materi
-+ ..
++ [topik-topik problem sistem fisis](text/whiteboard-topics-rbl.md)
 
 
 ## vicon
