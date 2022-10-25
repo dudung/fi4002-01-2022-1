@@ -11,7 +11,9 @@ week 10
 
 
 ## materi
-+ ..
++ [Gerak jatuh bebas](https://github.com/dudung/xeqn/blob/main/src/0020.md)
++ [Syarat-syarat batas](https://www.nairaland.com/3055062/5-types-boundary-conditions-mathematics)
++ [Metode beda hingga untuk gerak jatuh bebas](https://github.com/dudung/xeqn/blob/main/src/0019.md)
 
 
 ## vicon
