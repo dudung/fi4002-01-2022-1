@@ -12,7 +12,7 @@ lecture of fi4002 class 01 semester 1 in academic year 2022
 + `w07` [](note/07)
 + `w08` [](note/08)
 + `w09` [](note/09)
-+ `w10` [](note/10)
++ `w10` [Metode beda hingga](note/10)
 + `w11` [](note/11)
 + `w12` [](note/12)
 + `w13` [](note/13)
