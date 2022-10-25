@@ -14,6 +14,7 @@ week 10
 + [Gerak jatuh bebas](https://github.com/dudung/xeqn/blob/main/src/0020.md)
 + [Syarat-syarat batas](https://www.nairaland.com/3055062/5-types-boundary-conditions-mathematics)
 + [Metode beda hingga untuk gerak jatuh bebas](https://github.com/dudung/xeqn/blob/main/src/0019.md)
++ [Contoh penerapam metode beda hingga pada gerak jatuh bebas](https://github.com/dudung/py-jupyter-notebook/blob/main/app/case_03/free_fall.ipynb)
 
 ## komentar dan diskusi
 + Issue [21](https://github.com/dudung/fi4002-01-2022-1/issues/21) -- 26 Oktober 2022
