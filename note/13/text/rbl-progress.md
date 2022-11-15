@@ -3,5 +3,5 @@
 + Tuliskan perkembangan dan diskusi dilakukan pada issue terkait
 + Aktivitas per anggota diharapkan dapat terlihat dalam issue tersebut
 
-## topik
+## informasi sebelumnya
 + [Kelompok dan topik RBL (tentatif?)](../../09/text/whiteboard-topics-rbl.md)
