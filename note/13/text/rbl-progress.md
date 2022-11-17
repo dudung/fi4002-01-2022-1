@@ -19,3 +19,10 @@
 
 ## informasi sebelumnya
 + [Kelompok dan topik RBL (tentatif?)](../../09/text/whiteboard-topics-rbl.md)
+
+
+## whiteboard
+
+![](../img/nowb-16nov2022-1.jpeg)
+
+![](../img/nowb-16nov2022-2.jpeg)
